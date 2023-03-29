@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T09:27:06.345Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="oMUM51cix8s23gtxC6v8" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T09:43:31.565Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="pGYeN-FINUJnYPxbF7k3" version="21.1.1" type="github">
   <diagram name="Page-1" id="6Cp6kL8NRnwYzrqeiL2H">
     <mxGraphModel dx="1133" dy="1842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
@@ -50,7 +50,7 @@
           <mxGeometry x="155" y="-613" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Low464aujm_Ow84c1Fgc-14" value="Medical Record" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="132.5" y="-433" width="125" height="43" as="geometry" />
+          <mxGeometry x="132.5" y="-434.5" width="125" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Low464aujm_Ow84c1Fgc-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.426;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="Low464aujm_Ow84c1Fgc-17" target="Low464aujm_Ow84c1Fgc-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -67,7 +67,7 @@
             <mxPoint x="155" y="-383" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Low464aujm_Ow84c1Fgc-19" value="Dete_of_test" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="Low464aujm_Ow84c1Fgc-19" value="Date_of_test" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="45" y="-333" width="120" height="44" as="geometry" />
         </mxCell>
         <mxCell id="Low464aujm_Ow84c1Fgc-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.392;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.614;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="Low464aujm_Ow84c1Fgc-14" target="Low464aujm_Ow84c1Fgc-21" edge="1">
@@ -101,10 +101,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Low464aujm_Ow84c1Fgc-28" value="has" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="535" y="-603" width="80" height="80" as="geometry" />
+          <mxGeometry x="535" y="-598" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Low464aujm_Ow84c1Fgc-30" value="Doctor" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="517.5" y="-433" width="115" height="43" as="geometry" />
+          <mxGeometry x="517.5" y="-436" width="115" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Low464aujm_Ow84c1Fgc-34" value="M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="310" y="-738" width="30" height="30" as="geometry" />
@@ -118,7 +118,7 @@
         <mxCell id="Low464aujm_Ow84c1Fgc-39" value="haddress" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="660" y="-890" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Low464aujm_Ow84c1Fgc-40" value="&lt;u&gt;Host_id&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="Low464aujm_Ow84c1Fgc-40" value="&lt;u&gt;Hosp_id&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="395" y="-887" width="111" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Low464aujm_Ow84c1Fgc-41" value="Hcity" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
